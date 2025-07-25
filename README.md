@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+#  Bloom Balance
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Bloom Balance** is a modern, mobile-friendly **personal budgeting app** built using Vue.js, Firebase, Bootstrap, and Chart.js. It helps users track their income, expenses, and savings goals — all in a clean, lilac-themed dashboard.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🔍 Features
+
+- 🔐 **User Authentication** (Firebase Email/Password)
+- 💰 **Track Income & Expenses**
+- 📊 **View Savings Progress** with interactive charts
+- 🎯 **Set and Monitor Savings Goals**
+- 📅 **Filter by Date, Category, and Type**
+- 📱 **Responsive Design** for mobile and desktop
+- 🧾 **Profile Page** to view financial summary
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Vue.js 3 (Vite) + Bootstrap 5
+- **Backend:** Firebase (Firestore + Auth)
+- **Charts:** Chart.js (via vue-chartjs)
+
+
+
+
